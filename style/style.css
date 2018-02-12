@@ -1,0 +1,50 @@
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+.search-bar {
+  margin: 20px;
+  text-align: center;
+  ;
+}
+
+.search-bar input {
+  width: 75%;
+  padding: 10px;
+}
+
+.list-group-item {
+  padding: 0;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+.media-body{
+  padding: 10px 2px;
+}
+.list-group-item:hover {
+  background-color: rgba(0,0,0,0.04);
+}
+
+.details {
+  padding: 25px 0;
+}
+
+.media-heading {
+  font-size: 13px;
+  color: #444;
+}
+
+.video-title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.video-description {
+  font-size: 13px;
+}
+
+
+/* .thumbnail{
+  max-width:64px;
+} */
